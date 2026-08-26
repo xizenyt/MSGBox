@@ -1,8 +1,6 @@
-<div align="center">
 # 📜 The Ultimate & Absolute Guide to VBScript MsgBox
 ![Version](https://img.shields.io/badge/version-0.0.0-red)
 ![Creator](https://img.shields.io/badge/creator-xizenn__-blue)
-</div>
 
 Welcome to the most complete, deeply detailed, and heavily optimized guide for the VBScript `MsgBox` function. This documentation is packed with raw technical data, custom GitHub HTML styling wrapper blocks, and real-world implementation logic to make your repository look incredibly professional and high-quality!
 
