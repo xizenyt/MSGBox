@@ -1,4 +1,4 @@
-# ðŸš€ The Ultimate & Absolute Guide to VBScript MsgBox
+# 📜 The Ultimate & Absolute Guide to VBScript MsgBox
 
 Welcome to the most complete, deeply detailed, and heavily optimized guide for the VBScript `MsgBox` function. This documentation is packed with raw technical data, custom GitHub HTML styling wrapper blocks, and real-world implementation logic to make your repository look incredibly professional and high-quality!
 
@@ -6,7 +6,7 @@ Welcome to the most complete, deeply detailed, and heavily optimized guide for t
 
 <div class="markdown-body">
 
-## ðŸ“Œ Anatomy of the MsgBox Function
+## Anatomy of the MsgBox Function
 
 In VBScript, a `MsgBox` is not just a simple alert window. It is a highly customizable function capable of trapping user input, changing execution paths, and forcing system-level modal behaviors.
 
@@ -23,7 +23,7 @@ Response = MsgBox(prompt, buttons, title)
 
 ---
 
-## âš™ï¸ The Complete Bitwise Button Configuration Table
+## The Complete Bitwise Button Configuration Table
 
 The `buttons` parameter operates on a bitwise addition system. To construct your perfect dialog box, you select **one value from each functional group** and mathematically sum them together (e.g., `Button + Icon + Default + Modality`).
 
@@ -75,7 +75,7 @@ Advanced background logic switches that alter how Windows treats the window laye
 
 ---
 
-## ðŸ“¥ Return Values (Trapping User Decisions)
+## Return Values (Trapping User Decisions)
 
 When a user clicks a button, the `MsgBox` function terminates and hands back an exact numerical integer. You can capture this value within a variable to trigger deep conditional operational workflows.
 
@@ -129,7 +129,7 @@ End If
 ---
 
 <div align="center">
-  <h3>Built with ðŸ’» and â˜• for open-source engineering development. Feel free to star this repository if it helped you!</h3>
+  <h3>Builted by xizenn_ for open-source engineering development. Feel free to star this repository if it helped you!</h3>
 </div>
 
 ## THE END OF Explanation MSGBox 
