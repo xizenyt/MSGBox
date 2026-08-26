@@ -1,0 +1,20 @@
+# Windows System Files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Temporary and Log Files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# IDEs and Text Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# VBScript specific ignores (optional temporary script data)
+*.tmp_vbs
